@@ -1,0 +1,28 @@
+
+Target
+C:\Users\lammerss\AppData\Local\GpxUi\Update.exe --processStart GpxUi.exe
+
+Start In
+C:\Users\lammerss\AppData\Local\GpxUi\app-2.5.2
+
+Target new
+C:\Slic3r\Slic3r_Flashforge\GpxUi\Update.exe --processStart GpxUi.exe
+
+Start In new
+C:\Slic3r\Slic3r_Flashforge\GpxUi\app-2.5.2
+
+Copy Shortcut from
+C:\Users\lammerss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MarkWal
+
+To
+C:\Slic3r\Slic3r_Flashforge\GpxUi\Shortcut
+
+
+Skip these steps for now
+Delete GpxUi shortcut from 
+C:\Users\lammerss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MarkWal
+
+Re run start GpxUi, it will ask to delete
+
+Pin GpxUi to Start from location
+C:\Slic3r\Slic3r_Flashforge\GpxUi\Shortcut
